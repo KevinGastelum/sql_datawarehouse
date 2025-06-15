@@ -107,3 +107,8 @@ data-warehouse-project/
 ```
 
 ---
+
+<!--
+SQL Data Warehouse link
+https://www.youtube.com/watch?v=9GVqKuTVANE
+Video on 1:50:00 -->
